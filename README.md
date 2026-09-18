@@ -1,12 +1,12 @@
-# ¡Hola! 👋 Soy Angelo
+# ¡Hola! 👋 Soy Angelo Tellez
 
 🎓 Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones (TIC's) en el **TecNM Toluca**, egreso en 2027.
 🤖 Actualmente enfocado en **Inteligencia Artificial, Automatización y Procesamiento de Datos**.
-🚀 Buscando oportunidades como interna en proyectos de AI/Automatización.
+🚀 Buscando oportunidades como interno/trainee en proyectos de IA/Automatización.
 
 ---
 
-### 🛠️ Stack y tecnologías
+### 🛠️ Stack y tecnologías con las que he trabajado
 
 **Backend & APIs**
 `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT` `Node.js` `Next.js API Routes`
