@@ -49,5 +49,5 @@ Aplicación web progresiva en producción real, usada por el restaurante para ge
 ---
 
 ### 📫 Contacto
-¡Siempre abierta a colaborar en proyectos de cualquier tipo!
+¡Siempre abierto a colaborar en proyectos de cualquier tipo!
 
